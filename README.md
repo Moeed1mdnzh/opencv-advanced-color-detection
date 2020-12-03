@@ -1,4 +1,4 @@
-# advanced-color-detctor
+# opencv-advanced-color-detection
 This program is supposed to find an object in a frame and show the percentange of rgb(red-green-blue) colors used in the specific object.If you want to know what i meant by that you can check the examples of this program that i uploaded.
 # STEPS
 Part_1
@@ -12,3 +12,5 @@ Part_3
 2_Finds the edges of the mask and then finds the contours and gets the length of them.
 3_Divides the length of each color by the total of color lengths and then multiplies it by 100 so we can get the percentage of each color.
 4_Displays the frame
+# Requirements
+opencv-python , numpy
