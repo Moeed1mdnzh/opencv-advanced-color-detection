@@ -1,5 +1,8 @@
 # opencv-advanced-color-detection
-This program is supposed to find an object in a frame and show the percentange of rgb(red-green-blue) colors used in the specific object.If you want to know what i meant by that you can check the examples of this program that i uploaded.
+This program is supposed to find an object in a frame and show the percentange of rgb(red-green-blue) colors used in the specific object.
+![](https://github.com/Moeed1mdnzh/opencv-advanced-color-detection/blob/main/example1.jpg)
+![](https://github.com/Moeed1mdnzh/opencv-advanced-color-detection/blob/main/example2.jpg)
+![](https://github.com/Moeed1mdnzh/opencv-advanced-color-detection/blob/main/example3.jpg)
 # STEPS
 Part_1
 1_Captures the frame,clones it and adds filters such as blurring and converting to grayscale to it.
