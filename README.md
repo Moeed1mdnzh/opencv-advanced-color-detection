@@ -1,3 +1,5 @@
+2021 UPDATE : This program has problems at finding objects.
+
 # opencv-advanced-color-detection
 This program is supposed to find an object in a frame and show the percentange of rgb(red-green-blue) colors used in the specific object.
 
